@@ -12,4 +12,7 @@ Leetcode everyday(sad)
     0026.Remove Duplicates from Sorted Array
     0027.Remove Element
     
+### Mon Jan 3:
+    Still Array more 双指针
+    0977.Squares of a Sorted Array
     
