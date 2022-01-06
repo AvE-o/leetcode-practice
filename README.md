@@ -24,3 +24,6 @@ Leetcode everyday(sad)
 ### Wed Jan 5:
     0076 not finish yet
     摸了
+
+### Thu Jan 6:
+    今天真的摸了
