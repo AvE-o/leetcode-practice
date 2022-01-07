@@ -27,3 +27,6 @@ Leetcode everyday(sad)
 
 ### Thu Jan 6:
     今天真的摸了
+
+### Fri Jan 7:
+    
