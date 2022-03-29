@@ -30,3 +30,6 @@ Leetcode everyday(sad)
 
 ### Fri Jan 7:
     
+### Mon Mar 28:
+    今天开始应该不摸了吧(笑)
+    补HashMap
