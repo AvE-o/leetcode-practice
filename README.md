@@ -37,3 +37,6 @@ Leetcode everyday(sad)
 ### Mon Apr 18:
     摸到今天才开始 离谱
     0059.Spiral_Matrix_II.md
+
+### Mon Apr 25:
+    看看链表
