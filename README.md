@@ -40,3 +40,7 @@ Leetcode everyday(sad)
 
 ### Mon Apr 25:
     看看链表
+    
+### Tue Apr 26:
+    0203.Remove Linked List Elements
+    
